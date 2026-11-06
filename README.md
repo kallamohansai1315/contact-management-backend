@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contact Management System Backend
 
 ## Project Overview
@@ -164,3 +165,7 @@ Fields:
 The Contact Management System Backend provides an organized solution for managing contact information using REST APIs and a relational database.
 
 The project demonstrates backend development, database integration, CRUD operations, API testing and input validation.
+=======
+# contact-management-backend
+Contact Management System Backend using Node.js, Express and MySQL
+>>>>>>> a46777d640535e475ae73f081be6a68d3929850a
